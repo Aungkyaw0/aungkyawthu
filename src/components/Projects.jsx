@@ -22,8 +22,8 @@ const projects = [
     description: "A modern web platform for meal kit delivery services offering recipe guides, meal planning, and bake-at-home sets. Features a clean, user-friendly interface optimized for both desktop and mobile devices.",
     tech: ["HTML5", "CSS3", "Bootstrap 5", "JavaScript"],
     links: {
-      github: "https://github.com/Aungkyaw0/Aungkyaw0.github.io.git",
-      live: "https://aungkyaw0.github.io"
+      github: "https://github.com/Aungkyaw0/InABox-Meal-Delivery.git",
+      live: "https://in-a-box-meal-delivery.vercel.app/"
     },
     image: "/projects/inabox.jpg",
     features: [
@@ -58,7 +58,7 @@ const projects = [
     tech: ["HTML5", "CSS3", "Bootstrap 5", "JavaScript"],
     links: {
       github: "https://github.com/Aungkyaw0/DoBu-Martial-Arts.git",
-      live: "#"
+      live: "https://do-bu-martial-arts-psi.vercel.app/"
     },
     image: "/projects/dobu-martial.jpg",
     features: [
@@ -75,7 +75,7 @@ const projects = [
     tech: ["Java", "Android SDK", "Material Design"],
     links: {
       github: "https://github.com/Aungkyaw0/MathMania.git",
-      live: "#"
+      live: "https://github.com/Aungkyaw0/MathMania/releases/download/version1.1/MathMania.apk"
     },
     image: "/projects/math-mania.jpg",
     features: [
